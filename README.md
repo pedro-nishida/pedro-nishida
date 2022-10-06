@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Fazendo Bugs Desde 2021 <br>📚 Atualmente Estudando: Unity, Autodesk's Inventor e Blender <br>🎯 Goals: Estudar Frontend<br> 🎲 Hobby: Gamer, Violeiro, Aspirante a fotografia.</p>
+<p align="left">✨ Fazendo Bugs Desde 2021 <br>📚 Atualmente Estudando: C/C# ; AWS Cloud Solution Architecting <br>🎯 Goals: Estudar Frontend<br> 🎲 Hobby: Gamer, Violeiro, Aspirante a fotografia.</p>
 
 ###
 
