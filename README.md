@@ -21,5 +21,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
 </div>
-
-![Snake animation](https://github.com/pedro-nishida/pedro-nishida/blob/output/github-contribution-grid-snake.svg)
