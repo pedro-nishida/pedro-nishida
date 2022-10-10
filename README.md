@@ -1,4 +1,6 @@
-<h2 align="left">Olá 👋! Meu nome é Pedro, Estudante de Engenharia de Computação, na Universidade Federal de Uberlândia</h2>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Henrique Fujinami Nishida</h1>
+
+<h2 align="left">Estudante de Engenharia de Computação, na Universidade Federal de Uberlândia</h2>
 
 ###
 
