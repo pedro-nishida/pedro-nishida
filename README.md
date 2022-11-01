@@ -12,9 +12,9 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pedro Nishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nishida)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro Nishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nishida&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Eu programo com:</h2>
 
