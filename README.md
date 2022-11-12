@@ -13,11 +13,7 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Pedro Nishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nishida&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2 align="left">Eu programo com:</h2>
+<h2 align="left">I Code with: </h2>
 
 ###
 <div align="left">
@@ -26,3 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cpp logo"  />
 
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Pedro Nishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nishida&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
