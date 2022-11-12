@@ -1,14 +1,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Henrique Fujinami Nishida</h1>
 
-<h2 align="left">Estudante de Engenharia de Computação, na Universidade Federal de Uberlândia</h2>
+<h2 align="left">Undergraduate in Computer Engineering, at Universidade Federal de Uberlândia</h2>
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
-<p align="left">✨ Fazendo Bugs Desde 2021 <br>📚 Atualmente Estudando: C/C# ; php<br>🎯 Goals: Estudar Frontend<br> 🎲 Hobby: Gamer, Violeiro, Aspirante a fotografia.</p>
+<p align="left">✨ Making bugs since 2021 <br>📚 Currently studying: C ; php<br>🎯 Goals: to study FrontEnd<br> 🎲 Hobby: Gamer, Campfire Guitarrist, Coffee Lover.</p>
+<p align="left"> Currently is a trainee at @CONSELT, Junior Enterprise managed by Undergraduate Engineers at UFU-Brazil, and supervised by Brasil Júnior, MEJ, Núcleo Triangulo </p>
 
 ###
 
