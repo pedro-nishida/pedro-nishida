@@ -9,7 +9,8 @@
 ###
 
 <p align="left">✨ Making bugs since 2021 <br>📚 Currently studying: C ; php<br>🎯 Goals: to study FrontEnd<br> 🎲 Hobby: Gamer, Campfire Guitarrist, Coffee Lover.</p>
-<p align="left"> Currently work at @CONSELT as Project's Assessor, Junior Enterprise managed by Undergraduate Engineers at UFU-Brazil, and supervised by Brasil Júnior, MEJ, Núcleo Triangulo </p>
+<p align="left"> Currently work at <a href="https://www.instagram.com/conselt/"> Conselt </a> as Project's Assessor, one of many 
+r<a href="https://www.juniorenterprises.org/"> Junior Enterprise </a> by Undergraduate Students at UFU-Brazil, and supervised by Brasil Júnior, MEJ, Núcleo Triangulo </p>
 
 ###
 
