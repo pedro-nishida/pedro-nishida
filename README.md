@@ -25,6 +25,6 @@
   
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Pedro Nishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nishida&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
