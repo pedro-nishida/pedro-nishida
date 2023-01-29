@@ -22,9 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cpp logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" width="42" alt="cpp logo"  />
-  
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2><h2>
 
-[![Pedro Nishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nishida&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-nishida&theme=github_dark" />
+</a>
