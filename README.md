@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Henrique Fujinami Nishida</h1>
 
-<h2 align="left">Sophomore in Computer Engineering, at Universidade Federal de Uberlândia (2/8 semester)</h2>
+<h2 align="left">Sophomore in Computer Engineering, at Universidade Federal de Uberlândia (3/8 semester)</h2>
 
 ###
 
