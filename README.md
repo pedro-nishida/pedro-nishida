@@ -2,8 +2,6 @@
 
 <h2 align="left">Sophomore in Computer Engineering, at Universidade Federal de Uberlândia (3/8 semester)</h2>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=pedro-nishida)
-
 ###
 
 <h2 align="left">About me:</h2>
