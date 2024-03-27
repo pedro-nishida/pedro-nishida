@@ -9,7 +9,7 @@
 ###
 
 <p align="left">✨ Making bugs since 2021 <br>📚 Currently studying: C#, postgreSQL; Flutter<br>🎯 Goals: Data Engineering or Cloud Computing<br> 🎲 Hobby: Gamer, Campfire Guitarrist, Coffee Lover.</p>
-<p align="left"> Currently work at <a href="https://www.instagram.com/conselt/"> Conselt </a> as Project's Coordinator, one of many 
+<p align="left"> Former member of <a href="https://www.instagram.com/conselt/"> Conselt </a> as Project's Coordinator, one of many 
 <a href="https://www.juniorenterprises.org/"> Junior Enterprise </a> project, and supervised by Brasil Júnior, MEJ, Núcleo Triangulo </p>
 
 ###
