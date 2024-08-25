@@ -32,3 +32,4 @@
 <a href="http://www.github.com/pedro-nishida"><img src="https://github-readme-stats.vercel.app/api?username=pedro-nishida&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedro_nishida's GitHub stats" width="400"></a>
 <a href="http://www.github.com/pedro-nishida"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-nishida&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="440"/></a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nishida&&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
