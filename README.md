@@ -9,7 +9,6 @@
 ###
 
 <p align="left">✨ Making bugs since 2021 <br>📚 Currently studying: Robotics, AWS, Machine Learning, Formal Languages and Automata Theory <br> 🎲 Hobby: Gamer, Campfire Guitarrist, Coffee Lover.</p>
-###
 
 <h2 align="left">I Code with: </h2>
 
