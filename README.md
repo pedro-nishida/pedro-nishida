@@ -9,7 +9,6 @@
 ###
 
 <p align="left">✨ Making bugs since 2021 <br>📚 Currently studying: Robotics, AWS, Machine Learning, Formal Languages and Automata Theory <br> 🎲 Hobby: Gamer, Campfire Guitarrist, Coffee Lover.</p>
-<p align="left"> Former member of <a href="https://www.instagram.com/conselt/"> Conselt </a> one <a href="https://www.juniorenterprises.org/"> Junior Enterprise </a> and now, on Financial Market League of my Uni as trainee
 ###
 
 <h2 align="left">I Code with: </h2>
