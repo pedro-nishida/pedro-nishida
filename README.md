@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Henrique Fujinami Nishida</h1>
 
-<h2 align="left">Junior in Computer Engineering, at Universidade Federal de Uberlândia (4/8 semester)</h2>
+<h2 align="left">Undergraduate in Computer Engineering, at Universidade Federal de Uberlândia (4/8 semester)</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Making bugs since 2021 <br>📚 Currently studying: Cloud Computing w/Gcloud and Azure, Embedded Systems; React.js <br> 🎲 Hobby: Gamer, Campfire Guitarrist, Coffee Lover.</p>
+<p align="left">✨ Making bugs since 2021 <br>📚 Currently studying: Robotics, AWS, Machine Learning, Formal Languages and Automata Theory <br> 🎲 Hobby: Gamer, Campfire Guitarrist, Coffee Lover.</p>
 <p align="left"> Former member of <a href="https://www.instagram.com/conselt/"> Conselt </a> one <a href="https://www.juniorenterprises.org/"> Junior Enterprise </a> and now, on Financial Market League of my Uni as trainee
 ###
 
