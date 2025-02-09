@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Henrique Fujinami Nishida</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Nishida</h1>
 
 <h2 align="left">Undergraduate in Computer Engineering, at Universidade Federal de Uberlândia (4/8 semester)</h2>
 
