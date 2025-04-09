@@ -24,9 +24,6 @@
 
 ### 📫 Let's connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 pedro.nishida@email.com (coloca só se quiser deixar público)
-
 ---
 
 *“Do what you can, with what you have, where you are.” – Theodore Roosevelt*
