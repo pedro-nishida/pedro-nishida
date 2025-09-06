@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 - 🐞 Making bugs since 2021  
-- 📚 Currently diving into: Robotics, AWS, Machine Learning, Formal Languages and Automata Theory  
+- 📚 Currently diving into: Robotics, Machine Learning, Flutter
 - 🎮 Gamer by night, campfire guitarist by heart, coffee lover 24/7  
 
 ---
