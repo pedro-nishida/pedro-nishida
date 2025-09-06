@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Nishida</h1>
 
-<h2 align="left">🎓 Computer Engineering Undergrad at Universidade Federal de Uberlândia (6th semester)</h2>
+<h2 align="left">🎓 Computer Engineering Undergrad at Universidade Federal de Uberlândia (7th semester)</h2>
 
 ---
 
